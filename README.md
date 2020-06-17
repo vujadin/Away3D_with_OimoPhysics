@@ -1,5 +1,5 @@
 # Away3D_with_OimoPhysics
-Using OimoPhysics with Away3D 
+Using OimoPhysics with Away3D  https://vujadin.github.io/Away3D_with_OimoPhysics/demo/index.html
 
 https://github.com/saharan/OimoPhysics
 
